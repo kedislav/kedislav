@@ -2,7 +2,12 @@
 Kedislav/Kedislav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  _  __        _   | |/ /       | |  | ' / ___  __| |  |  < / _ \/ _` |  | . \  __/ (_| |_ |_|\_\___|\__,_(_)
+  _  __        _   
+ | |/ /       | |  
+ | ' / ___  __| |  
+ |  < / _ \/ _` |  
+ | . \  __/ (_| |_ 
+ |_|\_\___|\__,_(_)
 
 Hey, welcome to my GitHub. I'm @Kedislav.
 
