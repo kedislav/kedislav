@@ -9,9 +9,10 @@ Piece of code I write and test, I'll probably publish. I started programming rec
 
 As I believe you have assumed by now, I love learning. I love finding out new interests and throwing myself at them. It is one of the things that bring me joy when I do them. I'm an avid water drinker, also tea. I still can't leave sugar. My favorite cake is cheesecake. Another curious fact about me? I've never been able to sleep face down, I just can't. Anyway, besides this monologue here, hope you enjoy. I'm fairly new to everything so don't hesitate to offer advice if you have it.
 
-Languages I know by now; Bash, Python, Swift.
+Languages I know by now; Python, Go, Swift.
 
-Social Media;
+## Social Media
+
 - [Twitter](https://www.twitter.com/Kedislav_)
 - [Instagram](https://www.instagram.com/kedislav_)
 - [Medium](https://medium.com/@kedislav)
