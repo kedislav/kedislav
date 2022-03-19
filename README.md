@@ -5,7 +5,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚨 Attending **[Snyk Fetch the Flag](https://snyk.io/snykcon/ctf/)** event.
 - 🏗️ Working on **[Rattle - A Simple File Extension Obfuscator](https://github.com/Kedislav/rattle-obfuscator)**
 - 🌱 I’m usually learning everything, lately focused on **Python and React**.
 - 🥅 Finishing **university** and getting my **[eJPT](https://elearnsecurity.com/product/ejpt-certification/)**.
