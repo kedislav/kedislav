@@ -6,8 +6,7 @@
 ## 🙋‍♂️ About Me
 
 - 🏗️ Working on **[updating my portfolio](https://github.com/Kedislav/ked-projects)**.
-- 📅 Attending the **[EZCTF Event](https://ez.ctf.cafe/)**.
-- 🌱 I’m usually learning everything, lately focused on **Python**.
+- 🌱 I’m usually learning everything, lately focused on **Python** and **Bash** scripting.
 - 🥅 Finishing **university** and getting my **[eJPT](https://elearnsecurity.com/product/ejpt-certification/)**.
 - ⚡ Fun fact: I've never been able to sleep on my stomach. Weirdos.
 
@@ -32,20 +31,3 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 </p>
-
-## 📊 My Github Stats
-  
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="top" alt="Kedislav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kedislav&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img align="top" alt="Kedislav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedislav&langs_count=8&count_private=true&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kedislav">
-</a>
-<a href="https://github.com/Kedislav?tab=followers"><img src="https://img.shields.io/github/followers/Kedislav?label=Followers&style=social" alt="GitHub Badge"></a>
-  
-<br />
-<br />
-
