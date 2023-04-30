@@ -12,7 +12,6 @@
 
 ## ✨ Social Media
 
-[<img align="left" alt="Kedislav | Medium" src="https://img.icons8.com/color/48/000000/medium-logo--v2.png" />](https://medium.com/@kedislav)
 [<img align="left" alt="Kedislav | Mastodon" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"/>](https://freeradical.zone/web/@kedislav)
 [<img align="left" alt="Kedislav | Twitch" src="https://img.icons8.com/color/48/000000/twitch--v2.png" />](https://www.twitch.tv/kedislav)
 [<img align="left" alt="Kedislav | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://www.linkedin.com/in/kedislav/)
