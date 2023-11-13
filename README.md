@@ -1,16 +1,18 @@
 **ked@github** ► ./readme.sh
-<a href="#"><img align="right" width="50%"  src="https://i.imgur.com/0N4gvc3.png" alt="Ked's Logo in ASCII format"/></a> 
+<a href="#"><img align="right" width="50%" src="https://i.imgur.com/0N4gvc3.png" alt="Ked's Logo in ASCII format"/></a> 
 # People call me `Ked`. Nice to meet you! ( ´ ω ` )ノﾞ
-I'm a computer engineering student who does **cybersecurity** for the most part. I specialize in social engineering, but I do all forms of pentesting too. In my free time I tinker, code and break stuff.
-- 🌱 Fairly unpredictable and terminally curious.
-- 🏗️ Working on getting my **eJPT**, as well as other security certs.
-- ⚡ Focusing on polishing my **C** skills, as well as my **Bash** and **Python** scripting, to do my own tooling.
+I'm an ***offensive-security-oriented*** computer engineering student. I specialize in social engineering, but I do all forms of pentesting too. In my free time I tinker, code and break stuff.
+- 🌱 Very learning oriented. I speak both english and spanish!
+- 🏗️ Working on getting my **eJPT**, as well as other security certs in the near future.
+- ⚡ Focusing on polishing my **C** skills, as well as my **Bash** and **Python** scripting to do my own tooling.
 - 💀 Learning **Java** against my will (terrifyingly bad language).
-- 🗺️ Find me everywhere as `@kedislav`.
+- 🗺️ Find me everywhere as `@kedislav` or `@ked`.
 
-► [My Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/93717CE549CA72E74B67FEF3D5817BF2B9C344E7) ► [(WIP) My Website](https://about:blank) ► [How to Ask Questions](https://dontasktoask.com)
+► [My Blog](https://ked.bearblog.dev) ► [My Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/93717CE549CA72E74B67FEF3D5817BF2B9C344E7) ► [How to Ask Questions](https://dontasktoask.com)
 
-> <a href="http://www.catb.org/hacker-emblem/"><img src="http://www.catb.org/hacker-emblem/glider.png" alt="The Glider, a known hacker emblem." /></a> <a href="https://app.hackthebox.com/profile/622580"><img src="http://www.hackthebox.eu/badge/image/622580" alt="Ked's Hack The Box Profile"/></a>
+<a href="https://tryhackme.com/p/Kedislav"><img width="220px" src="https://tryhackme-badges.s3.amazonaws.com/Kedislav.png" alt="Ked's TryHackMe Profile"/></a>
+<a href="http://www.catb.org/hacker-emblem/"><img width="50px" src="http://www.catb.org/hacker-emblem/glider.png" alt="The Glider, a known hacker emblem."/></a>
+<a href="https://app.hackthebox.com/profile/622580"><img src="http://www.hackthebox.eu/badge/image/622580" alt="Ked's Hack The Box Profile"/></a>
 
 ## > ./certs_tooling_more
 
@@ -18,6 +20,7 @@ I'm a computer engineering student who does **cybersecurity** for the most part.
 ![A+](https://img.shields.io/badge/A%2B-Certified-FFFFFF?style=for-the-badge&logo=comptia&logoColor=FFFFFF&labelColor=C8202F&color=FFFFFF)
 ![Net+](https://img.shields.io/badge/Net%2B-In%20Progress-FFFFFF?style=for-the-badge&logo=comptia&logoColor=FFFFFF&labelColor=C8202F&color=CCCCCC)
 ![eJPT](https://img.shields.io/badge/eJPT-In%20Progress-FFFFFF?style=for-the-badge&logo=ine&logoColor=FFFFFF&labelColor=9720AB&color=CCCCCC)
+![OSCP](https://img.shields.io/badge/OSCP-Future-FFFFFF?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF&labelColor=557C94&color=7f7f7f)
 
 ### :: langs ::
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,14 +43,18 @@ I'm a computer engineering student who does **cybersecurity** for the most part.
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## > ./reach_me
+Should you try and contact/email me, **please try to encrypt it** using my public key above. It is [`rsa4096/0xD5817BF2B9C344E7`](https://keys.openpgp.org/vks/v1/by-fingerprint/93717CE549CA72E74B67FEF3D5817BF2B9C344E7), and its fingerprint is `9371 7CE5 49CA 72E7 4B67 FEF3 D581 7BF2 B9C3 44E7`. My email address is `kedislav <at> proton <dot> me`. "But why should I do this?" you might ask; it not only ensures that me and only me reads your message, but also [sizeof(cat)](https://sizeof.cat) could not have said it better:
+> "Every bit of encrypted traffic increases the encrypted background noise and thus makes it harder to distinguish between important and unimportant traffic." - **sizeof(cat)**
 
+You can also get my key from the OpenPGP keyserver by running this command on your terminal (assuming you have `gpg` installed):
+```shell
+$ gpg --keyserver hkps://keys.openpgp.org --recv-key 93717CE549CA72E74B67FEF3D5817BF2B9C344E7
+```
 
+### :: other socials ::
+<a href="https://freeradical.zone/web/@kedislav"><img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/207_Mastodon_logo_logos-256.png" alt="Ked's Mastodon Profile"/></a>
+<a href="https://www.linkedin.com/in/kedislav/"><img width="60px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/201_Linkedin_logo_logos-256.png" alt="Ked's LinkedIn Profile"/></a>
 
-[<img align="left" alt="Kedislav | Mastodon" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png"/>](https://freeradical.zone/web/@kedislav)
-[<img align="left" alt="Kedislav | Twitch" src="https://img.icons8.com/color/48/000000/twitch--v2.png" />](https://www.twitch.tv/kedislav)
-[<img align="left" alt="Kedislav | LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />](https://www.linkedin.com/in/kedislav/)
-[<img align="left" alt="Kedislav | Instagram" src="https://img.icons8.com/color/48/000000/instagram.png" />](https://www.instagram.com/kedislav_)
-[<img align="left" alt="Kedislav | VSCO" src="https://img.icons8.com/color/48/000000/vsco-logo.png" />](https://vsco.co/kedislav)
+---
 
-<br />
-<br />
+<a href="https://visitcount.itsvg.in"><img align="center" src="https://visitcount.itsvg.in/api?id=kedislav&label=Profile%20Views&color=11&icon=5&pretty=true" /></a>
