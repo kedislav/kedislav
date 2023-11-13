@@ -1,4 +1,3 @@
-**ked@github** ► ./readme.sh
 <a href="#"><img align="right" width="50%" src="https://i.imgur.com/0N4gvc3.png" alt="Ked's Logo in ASCII format"/></a> 
 # People call me `Ked`. Nice to meet you! ( ´ ω ` )ノﾞ
 I'm an ***offensive-security-oriented*** computer engineering student. I specialize in social engineering, but I do all forms of pentesting too. In my free time I tinker, code and break stuff.
