@@ -7,7 +7,7 @@ I'm an ***offensive-security-oriented*** computer engineering student. I special
 - 💀 Learning **Java** against my will (terrifyingly bad language).
 - 🗺️ Find me everywhere as `@kedislav` or `@ked`.
 
-► [My Blog](https://ked.bearblog.dev) ► [My Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/93717CE549CA72E74B67FEF3D5817BF2B9C344E7) ► [How to Ask Questions](https://dontasktoask.com)
+► [My Blog](https://ked.bearblog.dev) ► [My Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/0E29C9BD251175B7F2D327FB3129169D1F30057E) ► [How to Ask Questions](https://dontasktoask.com)
 
 <a href="https://tryhackme.com/p/Kedislav"><img width="220px" src="https://tryhackme-badges.s3.amazonaws.com/Kedislav.png" alt="Ked's TryHackMe Profile"/></a>
 <a href="http://www.catb.org/hacker-emblem/"><img width="50px" src="http://www.catb.org/hacker-emblem/glider.png" alt="The Glider, a known hacker emblem."/></a>
@@ -42,12 +42,12 @@ I'm an ***offensive-security-oriented*** computer engineering student. I special
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## > ./reach_me
-Should you try and contact/email me, **please try to encrypt it** using my public key above. It is [`rsa4096/0xD5817BF2B9C344E7`](https://keys.openpgp.org/vks/v1/by-fingerprint/93717CE549CA72E74B67FEF3D5817BF2B9C344E7), and its fingerprint is `9371 7CE5 49CA 72E7 4B67 FEF3 D581 7BF2 B9C3 44E7`. My email address is `kedislav <at> proton <dot> me`. "But why should I do this?" you might ask; it not only ensures that me and only me reads your message, but also [sizeof(cat)](https://sizeof.cat) could not have said it better:
+Should you try and contact/email me, **please try to encrypt it** using my public key above. It is [`ed25519/0x3129169D1F30057E`](https://keys.openpgp.org/vks/v1/by-fingerprint/0E29C9BD251175B7F2D327FB3129169D1F30057E), and its fingerprint is `0E29 C9BD 2511 75B7 F2D3 27FB 3129 169D 1F30 057E`.  My email address is `kedislav <at> proton <dot> me`. "But why should I do this?" you might ask; it not only ensures that me and only me reads your message, but also [sizeof(cat)](https://sizeof.cat) could not have said it better:
 > "Every bit of encrypted traffic increases the encrypted background noise and thus makes it harder to distinguish between important and unimportant traffic." - **sizeof(cat)**
 
 You can also get my key from the OpenPGP keyserver by running this command on your terminal (assuming you have `gpg` installed):
 ```shell
-$ gpg --keyserver hkps://keys.openpgp.org --recv-key 93717CE549CA72E74B67FEF3D5817BF2B9C344E7
+$ gpg --keyserver hkps://keys.openpgp.org --recv-key 0E29C9BD251175B7F2D327FB3129169D1F30057E
 ```
 
 ### :: other socials ::
