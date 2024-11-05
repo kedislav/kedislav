@@ -1,11 +1,14 @@
 # People call me `Ked`. Nice to meet you! ( ´ ω ` )ノﾞ
 
-I'm a hacker and a computer engineer (this just means I whisper to computers so they do my bidding). I specialize in social engineering, but I do all forms of pentesting too. In my free time I tinker, code and break stuff.
+I'm a curious oddball who's also a hacker and a computer engineer (_this just means I whisper to computers so they do my bidding_). I engage in all forms of meddling, mostly fueled by my desire to know more about everything. In my free time I tinker, code and break stuff.
 
-- 🌱 Very learning oriented. I speak both english and spanish!
-- 🏗️ Looking into **CRTP** next.
-- ⚡ Focusing on polishing my **C** skills, as well as my **Bash** and **Python** scripting to do my own tooling.
-- 🗺️ Find me everywhere as `@kedislav` or `@ked`.
+- `cat now`
+  ==[ caffeinated, in my element, dealing with uni.
+  ==[ learning french and polishing my **python**.
+- `ls projects`
+  ==[ [keepr](https://github.com/kedislav/keepr), a pentesting inventory manager.
+- `find ked`
+  ==[ catch me around as `@kedislav` or `@ked`.
 
 ► [My Blog](https://ked.bearblog.dev) ► [My Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/0E29C9BD251175B7F2D327FB3129169D1F30057E) ► [How to Ask Questions](https://dontasktoask.com)
 
@@ -14,6 +17,13 @@ I'm a hacker and a computer engineer (this just means I whisper to computers so 
 <a href="https://app.hackthebox.com/profile/622580"><img src="http://www.hackthebox.eu/badge/image/622580" alt="Ked's Hack The Box Profile"/></a>
 
 ## > ./certs_tooling_more
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    ## .:: stack
+    <img src="https://skillicons.dev/icons=c,bash,rust,python,java,html,css,js"
+  </a>
+</p>
 
 ### .:: certs
 
