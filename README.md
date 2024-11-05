@@ -1,8 +1,6 @@
-<a href="#"><img align="right" width="50%" src="https://i.imgur.com/0N4gvc3.png" alt="Ked's Logo in ASCII format"/></a>
-
 # People call me `Ked`. Nice to meet you! ( ´ ω ` )ノﾞ
 
-I'm an **_offensive-security-oriented_** computer engineering student. I specialize in social engineering, but I do all forms of pentesting too. In my free time I tinker, code and break stuff.
+I'm a hacker and a computer engineer (this just means I whisper to computers so they do my bidding). I specialize in social engineering, but I do all forms of pentesting too. In my free time I tinker, code and break stuff.
 
 - 🌱 Very learning oriented. I speak both english and spanish!
 - 🏗️ Looking into **CRTP** next.
