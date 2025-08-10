@@ -16,8 +16,8 @@ I'm a curious oddball with a passion for computer security, the power of code an
 
 <h3 align="center">.:: certs ::.</h3>
 <p align="center">
-  <a href="https://ine.com/security/certifications/ejpt-certification">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/117798041"/>
+  <a href="https://certs.ine.com/88424e23-b02b-46a3-b9b7-1ba3ff64f996">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/117798041" width="10" height="10"/>
   </a>
 </p>
 
